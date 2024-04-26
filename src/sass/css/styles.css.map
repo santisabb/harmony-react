@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../scss/partials/base/_reset.scss","../scss/partials/components/_index.scss","../scss/partials/utilities/_mixins.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;;ACFJ;ECEI;EACA,iBDFsB;ECGtB,aDH8B;ECI9B,gBDJc;EACd","file":"styles.css"}
